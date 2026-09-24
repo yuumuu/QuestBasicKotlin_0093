@@ -8,11 +8,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #1** — Hello World:
 
-![#1](Images/#1.png)
+![#1](Images/%231.png)
 
 **Gambar #2** — Variables & String Templates:
 
-![#2](Images/#2.png)
+![#2](Images/%232.png)
 
 ---
 
@@ -20,7 +20,7 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #3** — Data Types:
 
-![#3](Images/#3.png)
+![#3](Images/%233.png)
 
 ---
 
@@ -28,11 +28,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #4** — Read-Only List:
 
-![#4](Images/#4.png)
+![#4](Images/%234.png)
 
 **Gambar #5** — Mutable List:
 
-![#5](Images/#5.png)
+![#5](Images/%235.png)
 
 ---
 
@@ -40,7 +40,7 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #6** — Read-Only Set:
 
-![#6](Images/#6.png)
+![#6](Images/%236.png)
 
 ---
 
@@ -48,11 +48,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #7** — Read-Only Map:
 
-![#7](Images/#7.png)
+![#7](Images/%237.png)
 
 **Gambar #8** — Mutable Map & Operations:
 
-![#8](Images/#8.png)
+![#8](Images/%238.png)
 
 ---
 
@@ -60,11 +60,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #9** — if Expression:
 
-![#9](Images/#9.png)
+![#9](Images/%239.png)
 
 **Gambar #10** — when Expression:
 
-![#10](Images/#10.png)
+![#10](Images/%2310.png)
 
 ---
 
@@ -72,7 +72,7 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #11** — Ranges:
 
-![#11](Images/#11.png)
+![#11](Images/%2311.png)
 
 ---
 
@@ -80,11 +80,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #12** — for Loop:
 
-![#12](Images/#12.png)
+![#12](Images/%2312.png)
 
 **Gambar #13** — while Loop:
 
-![#13](Images/#13.png)
+![#13](Images/%2313.png)
 
 ---
 
@@ -92,15 +92,15 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #14** — Function with Return:
 
-![#14](Images/#14.png)
+![#14](Images/%2314.png)
 
 **Gambar #15** — Named Arguments & Default Parameters:
 
-![#15](Images/#15.png)
+![#15](Images/%2315.png)
 
 **Gambar #16** — Functions without Return:
 
-![#16](Images/#16.png)
+![#16](Images/%2316.png)
 
 ---
 
@@ -108,11 +108,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #17** — Lambda Expression:
 
-![#17](Images/#17.png)
+![#17](Images/%2317.png)
 
 **Gambar #18** — Class Declaration:
 
-![#18](Images/#18.png)
+![#18](Images/%2318.png)
 
 ---
 
@@ -120,11 +120,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #19** — Properties:
 
-![#19](Images/#19.png)
+![#19](Images/%2319.png)
 
 **Gambar #20** — Member Functions:
 
-![#20](Images/#20.png)
+![#20](Images/%2320.png)
 
 ---
 
@@ -132,11 +132,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #21** — Data Class:
 
-![#21](Images/#21.png)
+![#21](Images/%2321.png)
 
 **Gambar #22** — Copy Instance:
 
-![#22](Images/#22.png)
+![#22](Images/%2322.png)
 
 ---
 
@@ -144,11 +144,11 @@ Kotlin basic programming examples extracted from `Docs/basicKotlin.pdf`.
 
 **Gambar #23** — Nullable Types:
 
-![#23](Images/#23.png)
+![#23](Images/%2323.png)
 
 **Gambar #24** — Elvis Operator:
 
-![#24](Images/#24.png)
+![#24](Images/%2324.png)
 
 ---
 
